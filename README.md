@@ -13,8 +13,7 @@ When an XBee module is connected to an intelligent device (such as a computer, A
 The intelligent device sends data through the serial interface to the XBee module to be transmitted to other devices over the air.
 The XBee module receives wireless data from other devices, and then sends the data through the serial interface to the intelligent device.
 The XBee modules interface to a host device such as a microcontroller or computer through a logic-level asynchronous serial port. They use a UART for serial communication with those devices.
-
-https://www.digi.com/resources/documentation/Digidocs/90001456-13/resources/images/rf_kits/dwg_xbee_serial_connection_700x166.png
+<a href="https://github.com/firebolt7/XBee-Based-Serial-Communication-using-Arduino-"><img src="https://www.digi.com/resources/documentation/Digidocs/90001456-13/resources/images/rf_kits/dwg_xbee_serial_connection_700x166.png" title="BASS" alt="BASS"></a>
 
 ### Prerequisites
 
