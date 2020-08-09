@@ -31,18 +31,18 @@ The XBee modules interface to a host device such as a microcontroller or compute
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/firebolt7/XBee-Based-Serial-Communication-using-Arduino-) for details on our code of conduct, and the process for submitting pull requests to us.
  
 
 ## Authors
 
 * **BS** - *Initial work* - [firebolt7](https://github.com/firebolt7)
 
-See also the list of [contributors](https://) who participated in this project.
+See also the list of [contributors](https://github.com/firebolt7/XBee-Based-Serial-Communication-using-Arduino-) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL 3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
